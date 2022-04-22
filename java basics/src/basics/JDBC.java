@@ -1,4 +1,4 @@
-package basics;
+package operationOnSQL;
 
 import java.sql.*;
 import java.util.Scanner;
